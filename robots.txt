@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alsiraj-realestate.netlify.app/sitemap.xml
