@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alsiraj-realestate.netlify.app/sitemap.xml
+Sitemap: https://abdullahrw1.github.io/al-siraj-realestate/sitemap.xml
