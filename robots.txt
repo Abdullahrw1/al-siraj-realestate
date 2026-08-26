@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abdullahrw1.github.io/al-siraj-realestate/sitemap.xml
+Sitemap: https://alsirajrealestate.com/sitemap.xml
